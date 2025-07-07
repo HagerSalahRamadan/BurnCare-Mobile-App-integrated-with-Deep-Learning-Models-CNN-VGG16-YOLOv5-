@@ -108,8 +108,9 @@ A **mobile application integrated with Deep Learning models** to:
 
 #### 6. **YOLOv5 Detection & Classification**
 - ![Screenshot](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/YOLOv5%20Detection%20%26%20Classification.png)
-- ![Screenshot](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/YOLOv5%20Detection%20%26%20Classification2.png)
 - ![Screenshot](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/YOLOv5%20Detection%20%26%20Classification3.png)
+- ![Screenshot](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/YOLOv5%20Detection%20%26%20Classification2.png)
+
 
 
 #### 7. **CNN & VGG16 Accuracy**
@@ -118,7 +119,7 @@ A **mobile application integrated with Deep Learning models** to:
 
 - VGG16 Accuracy
 - ![Screenshot](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/VGG16%20Accuracy.png)
-- 
+  
 
 #### 8. **YOLOv5 Precision**
 - ![Screenshot](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/YOLOv5%20Precision1.png)
