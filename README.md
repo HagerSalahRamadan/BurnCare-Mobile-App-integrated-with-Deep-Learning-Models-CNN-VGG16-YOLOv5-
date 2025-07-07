@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6d766a32-efa0-4742-8ba6-8ac0c14c5ad6)![image](https://github.com/user-attachments/assets/a8787330-9d59-4cfd-a92f-d53ca5197df6)![image](https://github.com/user-attachments/assets/d4efcf3c-6501-4b10-bcb2-2455d0c80754)# 🔥 BurnCare - Mobile App for Burn Treatment using Deep Learning
+# 🔥 BurnCare - Mobile App for Burn Treatment using Deep Learning
 
 ## 🧾 Introduction
 
@@ -100,58 +100,33 @@ A **mobile application integrated with Deep Learning models** to:
 
 #### 4. **Ensemble Learning**
 - Combines predictions from multiple models using **voting** to enhance accuracy
-- ![Ensemble Learning Diagram](./images/ensemble_diagram.png)
+- ![Ensemble Learning Diagram](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/Ensemble%20Learning.jpg)
 
 #### 5. **CNN and VGG16 Models Classification**
 
-- ![Ensemble Learning Diagram](./images/ensemble_diagram.png)
-
+- ![Screenshot](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/CNN%20and%20VGG16%20Models%20Classifications.png)
 
 #### 6. **YOLOv5 Detection & Classification**
-- ![Ensemble Learning Diagram](./images/ensemble_diagram.png)
-- ![Ensemble Learning Diagram](./images/ensemble_diagram.png)
-- ![Ensemble Learning Diagram](./images/ensemble_diagram.png)
+- ![Screenshot](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/YOLOv5%20Detection%20%26%20Classification.png)
+- ![Screenshot](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/YOLOv5%20Detection%20%26%20Classification2.png)
+- ![Screenshot](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/YOLOv5%20Detection%20%26%20Classification3.png)
 
 
-
-
-#### 7. **YOLOv5 Precision**
-- ![Ensemble Learning Diagram](./images/ensemble_diagram.png)
-
-- ![Ensemble Learning Diagram](./images/ensemble_diagram.png)
-
-
-#### 8. **CNN & VGG16 Accuracy**
+#### 7. **CNN & VGG16 Accuracy**
 - CNN Accuracy
-- ![Ensemble Learning Diagram](./images/ensemble_diagram.png)
+- ![Screenshot]([./images/ensemble_diagram.png](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/CNN%20Accuracy.png))
 
 - VGG16 Accuracy
-- ![Ensemble Learning Diagram](./images/ensemble_diagram.png)
+- ![Screenshot]([./images/ensemble_diagram.png](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/VGG16%20Accuracy.png))
+- 
+
+#### 8. **YOLOv5 Precision**
+- ![Screenshot](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/YOLOv5%20Precision1.png)
+
+- ![Screenshot](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/YOLOv5%20Precision2.png)
+
 
   
----
-
-## 📱 User Interface
-
-### 🔹 Welcome Page
-### 🔹 Patient Features:
-- Sign Up / Login
-- Burn degree detection
-- First aid guidance
-- Book appointments
-- Follow-up consultations
-
-### 🔹 Doctor Features:
-- Review cases
-- Chat with patients
-- Upload recommendations
-
----
-
-## 🎬 Video Demo
-
-*(Insert a link to your app walkthrough video or demo GIF)*
-
 ---
 
 ## 📌 Conclusion
@@ -174,3 +149,5 @@ A **mobile application integrated with Deep Learning models** to:
 
 ---
 
+## Contact
+For any questions Contact via email **hagersalah.r39@gmail.com**.
