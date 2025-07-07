@@ -114,10 +114,10 @@ A **mobile application integrated with Deep Learning models** to:
 
 #### 7. **CNN & VGG16 Accuracy**
 - CNN Accuracy
-- ![Screenshot]([./images/ensemble_diagram.png](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/CNN%20Accuracy.png))
+- ![Screenshot](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/CNN%20Accuracy.png)
 
 - VGG16 Accuracy
-- ![Screenshot]([./images/ensemble_diagram.png](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/VGG16%20Accuracy.png))
+- ![Screenshot](https://github.com/HagerSalahRamadan/BurnCare-Mobile-App-integrated-with-Deep-Learning-Models-CNN-VGG16-YOLOv5-/blob/main/images/VGG16%20Accuracy.png)
 - 
 
 #### 8. **YOLOv5 Precision**
